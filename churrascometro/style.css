@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(124, 89, 100);
+}
+
+.container {
+   
+    max-width: 300px;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif; 
+
+
+}
+input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+
